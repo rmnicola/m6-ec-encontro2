@@ -9,7 +9,7 @@ class Fila(list):
         super().append(x)
 
     def pop(self):
-        super().pop(0)
+        return super().pop(0)
 
     def __repr__(self):
         return super().__repr__()
