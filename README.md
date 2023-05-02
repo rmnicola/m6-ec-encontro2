@@ -23,7 +23,7 @@ Uma fila é uma estrutura de dados linear que armazena elementos em uma ordem es
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1oFL12wy9Yw/0.jpg)](https://www.youtube.com/watch?v=1oFL12wy9Yw)
 
-## Implementação de filas usando a biblioteca `queue`
+## Implementação de filas usando deque
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/68DhAuEBVP8/0.jpg)](https://www.youtube.com/watch?v=68DhAuEBVP8)
 
