@@ -59,13 +59,13 @@ As duas principais operações com pilhas são:
 
 ## Implementação de filas usando listas
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nBv1Q_bdbTw/0.jpg)](https://www.youtube.com/watch?v=nBv1Q_bdbTw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nBv1Q_bdbTw/hqdefault.jpg)](https://www.youtube.com/watch?v=nBv1Q_bdbTw)
 
 ## Implementação de filas usando listas ligadas
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1oFL12wy9Yw/0.jpg)](https://www.youtube.com/watch?v=1oFL12wy9Yw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1oFL12wy9Yw/hqdefault.jpg)](https://www.youtube.com/watch?v=1oFL12wy9Yw)
 
 ## Implementação de filas usando deque
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/68DhAuEBVP8/0.jpg)](https://www.youtube.com/watch?v=68DhAuEBVP8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/68DhAuEBVP8/hqdefault.jpg)](https://www.youtube.com/watch?v=68DhAuEBVP8)
 
